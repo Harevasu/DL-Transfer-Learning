@@ -200,11 +200,14 @@ predict_image(model,image_index=25,dataset=test_dataset)
 
 
 ## Classification Report
+![image](https://github.com/user-attachments/assets/ffd915eb-06d6-4d87-a901-af5f6a1b0f75)
 
 
 
 ### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/38ff9ffd-9dba-49e2-a569-320a36eca8be)
 
+![image](https://github.com/user-attachments/assets/5ff5cf6b-255e-4ab4-bf4e-d526bafeb919)
 
 
 ## RESULT
